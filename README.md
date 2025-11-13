@@ -141,7 +141,7 @@ Aug 29, 2025
 3.26.0		Central	
 37
 Aug 20, 2025
-#Step 5: Run the Tests
+#Step 3: Run the Tests
 
 Locate TaskOneTests in src/test/java.
 Run it in your IDE (right-click → Run TaskOneTests) or via Maven:
